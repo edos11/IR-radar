@@ -1,0 +1,9 @@
+c:\users\edison\documents\visual studio 2013\Projects\Radar\Radar\bin\Debug\Radar.exe.config
+c:\users\edison\documents\visual studio 2013\Projects\Radar\Radar\bin\Debug\Radar.exe
+c:\users\edison\documents\visual studio 2013\Projects\Radar\Radar\bin\Debug\Radar.pdb
+c:\users\edison\documents\visual studio 2013\Projects\Radar\Radar\obj\Debug\Radar.csprojResolveAssemblyReference.cache
+c:\users\edison\documents\visual studio 2013\Projects\Radar\Radar\obj\Debug\Radar.Form1.resources
+c:\users\edison\documents\visual studio 2013\Projects\Radar\Radar\obj\Debug\Radar.Properties.Resources.resources
+c:\users\edison\documents\visual studio 2013\Projects\Radar\Radar\obj\Debug\Radar.csproj.GenerateResource.Cache
+c:\users\edison\documents\visual studio 2013\Projects\Radar\Radar\obj\Debug\Radar.exe
+c:\users\edison\documents\visual studio 2013\Projects\Radar\Radar\obj\Debug\Radar.pdb
